@@ -1,5 +1,10 @@
+// Google Apps Script for my Google Slides
+// Its purpose is to export text data from slide into a Google Sheet
+// in the Google Sheet, each row represents a slide
+// each column represents a text box which are consistent
+
 function exportToSheet() {
-  // Ggtting Album Review Slides
+  // Getting Album Review Slides
   var pres = SlidesApp.getActivePresentation();
   var slides = pres.getSlides();
   
