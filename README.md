@@ -7,3 +7,4 @@ The purpose of this notebook is to manage, clean, visualize, and analyze the 'Al
 ## Links
 ### [Album Review Google Slide](https://docs.google.com/presentation/d/1-sit7RucDORoW2wk91QiWHLnOfyox87Op5ot0wf52d0/edit?usp=sharing)
 ### [Exported Dataset](https://docs.google.com/spreadsheets/d/17I3OvnBi4OnVEHwU6rUbvNAtlaSK3j25RCozVECPVAU/edit?usp=sharing)
+### [Google Colab: album_review.ipynb](https://colab.research.google.com/github/osvalentino/album_review/blob/main/album_review.ipynb)
